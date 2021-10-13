@@ -16,13 +16,13 @@ Métodos: Anda, late, come, dorme, pega osso.
 
 3. 
 
-Peso                     Alistamento no exército                Loja de calçados
-Tipo de CNH              Empresa de transportes                 Escritório de advocacia 
-Tipo Sanguíneo           Centros de doação de sangue            Vagas para concursos
-Habilidade destra        Fabricante de carteiras escolares      Rede de restaurantes
-Percentual de gordura    Sistema de Hospital                    Cadastro de cartão
-Saldo em conta           Sistema bancário                       Serviços de entretenimento
-Etinia                   Sistemas de dados                      Aluguel de veículos
+Peso                      Alistamento no exército               Loja de calçados
+Tipo de CNH               Empresa de transportes                Escritório de advocacia 
+Tipo Sanguíneo            Centros de doação de sangue           Vagas para concursos
+Habilidade destra         Fabricante de carteiras escolares     Rede de restaurantes
+Percentual de gordura     Sistema de Hospital                   Cadastro de cartão
+Saldo em conta            Sistema bancário                      Serviços de entretenimento
+Etinia                    Sistemas de dados                     Aluguel de veículos
 
 
 4. Considerando os objetos Pessoa e Conta:
