@@ -14,6 +14,7 @@ Ex.:
 Atributos: Marley, Rex e Scooby.
 Métodos: Anda, late, come, dorme, pega osso.
 
+
 3. 
 
 Peso                      Alistamento no exército               Loja de calçados
@@ -25,14 +26,10 @@ Saldo em conta            Sistema bancário                      Serviços de en
 Etinia                    Sistemas de dados                     Aluguel de veículos
 
 
-4. Considerando os objetos Pessoa e Conta:
-a. Seria interessante em um sistema bancário um objeto "conta" possuir uma
-"pessoa" como um atributo interno representando o titular da conta?
+4. a. Não.
 
 
-b. Olhando no sentido inverso, seria interessante uma pessoa possuir mais de
-uma conta como atributo? Que elemento da programação estruturada melhor
-representaria o conjunto de contas de uma pessoa?
+b. Seria interessante. Um Array.
 
 
 5. Horário Individual, Calendário Acadêmico, Boletim, Histórico Escolar, Matrizes Curriculares.
